@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Rohit ✨
- Engineering Student At GHRISTU Pune
- Python | SQL | Power BI | Data Analytics
- Building Data-Driven Dashboards & Projects
- Learning Machine Learning & AI
- Open to Collaboration and New Opportunities
- Here is my Linkedin Profile you can connect to me there(https://linkedin.com/in/rohit-belhekar)
+ Engineering Student At GHRISTU Pune🎓
+ Python | SQL | Power BI | Data Analytics🐍
+ Building Data-Driven Dashboards & Projects📊
+ Learning Machine Learning & AI🚀
+ Open to Collaboration and New Opportunities🌱
+ Here is my Linkedin Profile you can connect to me there(https://linkedin.com/in/rohit-belhekar)🤖
 
 
 ## 🌐 Socials:
